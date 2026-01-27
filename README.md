@@ -15,3 +15,18 @@ A simple Pygame project where a blue ball moves to the mouse click position.
 ```bash
 pip install pygame
 python ball_game.py
+
+---
+
+### 👩‍💻 Author
+
+Eng. Khadija Bouadi
+
+
+### 📧 Contact
+
+For any queries, reach out to:
+
+GitHub: @khadibd
+
+Email: khadibd00@gmail.com
